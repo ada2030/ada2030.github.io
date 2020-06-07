@@ -3,4 +3,4 @@
 # Адахан Осоров
 Грузоперевозки
 
-[gruzovik](https://gruzovik.kg.github.io/ "сайт")
+[gruzovik](https://ada2030.github.io/wWeb/ "сайт")
